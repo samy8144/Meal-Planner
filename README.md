@@ -74,9 +74,13 @@ The application will automatically open in your default web browser at `http://l
 
 ## Screenshots
 
-> *Add a screenshot of your running application here to mock the UI.*
+> *Screenshots from the application*
 
-![Smart Meal Planner UI](mock_screenshot.png)
+### Home Page
+![Smart Meal Planner Home](ui%20ss/ui.bmp)
+
+### Generated Meal Plan
+![Generated Plan](ui%20ss/genrated%20plan.bmp)
 
 ## How It Works
 1. **Enter Details**: Input your age, weight, height, and activity level in the sidebar.
