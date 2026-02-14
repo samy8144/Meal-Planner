@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Streamlit
+# keeping config.toml but ignoring secrets if any
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+Thumbs.db
